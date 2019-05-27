@@ -60,7 +60,7 @@ void setup()
   println("Ports séries disponibles :");
   println(Serial.list());
  
-  // Sur mon ordinateur sous Ubuntu ou Debian, la carte Arduino est connectée au port 
+  // Sur mon ordinateur sous Debian, la carte Arduino est connectée au port 
   // /dev/ttyUSB0, le premier dans la liste, d'où le 0 dans Serial.list()[0].  
   // Sur mon ordinateur sous Windows, la carte Arduino est connectée au port COM3,
   // le deuxième dans la liste, d'où le 1 dans Serial.list()[1]. 
