@@ -2,7 +2,9 @@
 /*
    Accéléromètre DE-ACCM2G de DimensionEngineering (construit autour de l'ADXL322)
    http://3615.entropie.org
-   Adapté de Smoothing (http://arduino.cc/en/Tutorial/Smoothing) 
+   Adapté de Smoothing (http://arduino.cc/en/Tutorial/Smoothing)
+   
+   Compile avec Arduino 1.8.5
 */
 //////////////////////////////////////////////////////////////////////////////////////////
 
