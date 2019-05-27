@@ -92,7 +92,7 @@ void draw()
     serialEvent(valPort);
   }
   
-  // Enregistre la température mesurée dans le fichier données.txt. L'instant où
+  // Enregistre la valeur mesurée dans le fichier données.txt. L'instant où
   // la mesure a été effectuée est également conservé. Ce fichier pourra être importé 
   // dans un tableur (le point virgule est choisi comme séparateur de données).
   if (valueX != 0) { 
